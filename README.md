@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+<div align="center">I am Xuan (xvn)</div>
+<div align="center">I am an independent developer.</div>
+
 
 <!--
 **nguyenthanhxuan/nguyenthanhxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
