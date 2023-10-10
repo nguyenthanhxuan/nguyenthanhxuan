@@ -1,7 +1,7 @@
 # <div align="center"> Hi there 👋</div>
 
 <div align="center">I am Xuan (xvn)</div>
-<div align="center">I am an independent developer.</div>
+<div align="center">I am an indie developer.</div>
 
 
 <!--
